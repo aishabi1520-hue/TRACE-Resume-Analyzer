@@ -1,0 +1,26 @@
+CANDIDATE NAME: Sample Candidate
+
+EDUCATION:
+Bachelor of Engineering in Computer Science
+
+SKILLS:
+Java
+SQL
+Python
+OOP
+Git
+HTML
+CSS
+
+EXPERIENCE:
+Worked as a Java Developer for 3 years.
+
+PROJECTS:
+Banking Management System using Java and MySQL.
+
+Developed a student management application using Python.
+
+Used GitHub for version control.
+
+CERTIFICATIONS:
+Java Programming Certification
